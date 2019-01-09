@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/Program Files/LLVM/include/clang-c/*"
+                "C:/MinGW/include/*"
             ],
             "defines": [
                 "_DEBUG",
