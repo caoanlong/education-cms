@@ -1,7 +1,5 @@
-gcc main.c -o main
+gcc -o main.cgi cgiMain.c cgic.c
 
 if not exist target md target
-
-ren main.exe main.cgi
 
 move main.cgi target

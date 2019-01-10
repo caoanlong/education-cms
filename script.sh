@@ -1,4 +1,4 @@
-gcc main.c -o main
+gcc -o main cgiMain.c cgic.c
 
 if [! -d "data" ];then mkdir target
 
